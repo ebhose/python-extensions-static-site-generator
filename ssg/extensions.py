@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-
-
 import sys
 import importlib
 from pathlib import Path

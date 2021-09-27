@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-
-
 from ssg import hooks, parsers
 
 files = []
